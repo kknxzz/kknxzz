@@ -1,5 +1,5 @@
 <p align="left">
-  <img src="IMG_8657.jpg" alt="flower" width="300" height="150">
+  <img src="IMG_8657.jpg" alt="flower" width="500" height="100">
 </p>
 
 
@@ -18,7 +18,3 @@ cachyOS
 
 -----
 contact me @ levin@ferriteworks.com for inquiries
-
-<p align="left">
-  <img src="IMG_8658.jpg" alt="landscape" width="300" height="150">
-</p>
